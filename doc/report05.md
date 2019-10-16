@@ -84,9 +84,6 @@ Measurement Data
 Analysis and Discussion
 -----------------------
 
-// Follow the link in the deliverables section of the lab document and read the
-// article, then fill out the following questions
-
 1. *Briefly describe three errors in a DAC.*
 
 	Answer goes here
