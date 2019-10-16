@@ -1,8 +1,8 @@
 # EE 445L Lab 6 Report
 // Report should be submitted to canvas this time along with:  
-// - Final .sch file with corrections
-// - .pdf of your pcb layout
-// - Bill of materials (try and clean it up as much as possible so its easy for me to read)
+// - Final .sch file with corrections  
+// - .pdf of your pcb layout  
+// - Bill of materials (try and clean it up as much as possible so its easy for me to read)  
 
 - 'Firstname Lastname (eid123)'
 
@@ -31,5 +31,6 @@ Analysis and Discussion
 -----------------------
 
 1. *Explain the testing procedure you would suggest for the system (Procedure 1)*
+
 	Answer goes here
 
